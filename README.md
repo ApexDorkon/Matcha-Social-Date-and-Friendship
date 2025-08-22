@@ -1,79 +1,72 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# <img src="assets/images/LogoPNG.png" alt="Matcha Logo" height="40"/> Matcha — Social, Dating & Friendship Platform
 
-# Getting Started
+**Matcha** is an AI-powered social networking app that blends **dating, friendship, and networking** into one experience.  
+Users can connect across different modes — **Date, Business, Casual, Study, and Sport** — with smart AI suggestions, real-time chat, and multilingual support.  
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+---
 
-## Step 1: Start the Metro Server
+## ✨ Features
+- 👤 **Multi-Mode Profiles** — Switch between Date, Business, Casual, Study, or Sport  
+- 🤖 **AI Insights & Helpers** — Conversation starters, smart suggestions, and profile insights  
+- 💬 **Real-Time Chat** — Smooth, responsive messaging system with media sharing  
+- 🌍 **Global Connections** — Auto-translation and location-based discovery  
+- 📊 **Personalized Feed** — Swipe cards, AI prompts, and user interests for authentic connections  
 
-First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
+---
 
-To start Metro, run the following command from the _root_ of your React Native project:
+## 📸 App Preview
 
-```bash
-# using npm
-npm start
+### 🔄 Swipe Cards  
+Swipe right to connect, left to pass. AI-generated insights highlight common interests.  
+<p align="center">
+  <img src="assets/images/MatchaCards.jpeg" alt="Matcha Swipe Cards" width="300"/>
+  <img src="assets/images/MatchaCardLike.jpeg" alt="Matcha Like" width="300"/>
+  <img src="assets/images/MatchaCardDislike.jpeg" alt="Matcha Dislike" width="300"/>
+</p>
 
-# OR using Yarn
-yarn start
-```
+---
 
-## Step 2: Start your Application
+### 🧠 AI Insights & Helpers  
+Get personalized conversation starters and interest-based insights powered by AI.  
+<p align="center">
+  <img src="assets/images/MatchaCardsAiInsight.jpeg" alt="AI Insights" width="300"/>
+  <img src="assets/images/MatchaTextAiHelper.jpeg" alt="AI Helper in Chat" width="300"/>
+</p>
 
-Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _root_ of your React Native project. Run the following command to start your _Android_ or _iOS_ app:
+---
 
-### For Android
+### 📑 Profile Details  
+Rich user profiles with bio, interests, and personal highlights.  
+<p align="center">
+  <img src="assets/images/MatchaCardsDetail.jpeg" alt="Profile Details" width="300"/>
+</p>
 
-```bash
-# using npm
-npm run android
+---
 
-# OR using Yarn
-yarn android
-```
+### 💬 Real-Time Chat  
+Fast, intuitive chat with image sharing and AI assistance for conversation flow.  
+<p align="center">
+  <img src="assets/images/MatchaChat.jpeg" alt="Chat View" width="300"/>
+  <img src="assets/images/MatchaText.jpeg" alt="Text Messaging" width="300"/>
+</p>
 
-### For iOS
+---
 
-```bash
-# using npm
-npm run ios
+### 🎭 Multiple Modes  
+Switch between **Date, Business, Casual, Study, Sport** depending on your intent.  
+<p align="center">
+  <img src="assets/images/MatchaModes.jpeg" alt="App Modes" width="300"/>
+</p>
 
-# OR using Yarn
-yarn ios
-```
+---
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+## 🚀 Tech Stack
+- **Frontend:** React Native  
+- **Backend:** .NET (C#) 
+- **Database:** PostgreSQL  
+- **Realtime:** SignalR WebSockets  
+- **AI:** Custom NLP + LLM integrations  
+- **Cloud:** AWS + Docker  
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+---
 
-## Step 3: Modifying your App
-
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
