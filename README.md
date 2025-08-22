@@ -19,9 +19,9 @@ Users can connect across different modes — **Date, Business, Casual, Study, an
 ### 🔄 Swipe Cards  
 Swipe right to connect, left to pass. AI-generated insights highlight common interests.  
 <p align="center">
-  <img src="assets/images/MatchaCards.jpeg" alt="Matcha Swipe Cards" width="300"/>
-  <img src="assets/images/MatchaCardLike.jpeg" alt="Matcha Like" width="300"/>
-  <img src="assets/images/MatchaCardDislike.jpeg" alt="Matcha Dislike" width="300"/>
+  <img src="assets/images/MatchaCards.png" alt="Matcha Swipe Cards" width="300"/>
+  <img src="assets/images/MatchaCardLike.png" alt="Matcha Like" width="300"/>
+  <img src="assets/images/MatchaCardDislike.png" alt="Matcha Dislike" width="300"/>
 </p>
 
 ---
@@ -29,8 +29,8 @@ Swipe right to connect, left to pass. AI-generated insights highlight common int
 ### 🧠 AI Insights & Helpers  
 Get personalized conversation starters and interest-based insights powered by AI.  
 <p align="center">
-  <img src="assets/images/MatchaCardsAiInsight.jpeg" alt="AI Insights" width="300"/>
-  <img src="assets/images/MatchaTextAiHelper.jpeg" alt="AI Helper in Chat" width="300"/>
+  <img src="assets/images/MatchaCardsAiInsight.png" alt="AI Insights" width="300"/>
+  <img src="assets/images/MatchaTextAiHelper.png" alt="AI Helper in Chat" width="300"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@ Get personalized conversation starters and interest-based insights powered by AI
 ### 📑 Profile Details  
 Rich user profiles with bio, interests, and personal highlights.  
 <p align="center">
-  <img src="assets/images/MatchaCardsDetail.jpeg" alt="Profile Details" width="300"/>
+  <img src="assets/images/MatchaCardsDetail.png" alt="Profile Details" width="300"/>
 </p>
 
 ---
@@ -46,8 +46,8 @@ Rich user profiles with bio, interests, and personal highlights.
 ### 💬 Real-Time Chat  
 Fast, intuitive chat with image sharing and AI assistance for conversation flow.  
 <p align="center">
-  <img src="assets/images/MatchaChat.jpeg" alt="Chat View" width="300"/>
-  <img src="assets/images/MatchaText.jpeg" alt="Text Messaging" width="300"/>
+  <img src="assets/images/MatchaChat.png" alt="Chat View" width="300"/>
+  <img src="assets/images/MatchaText.png" alt="Text Messaging" width="300"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@ Fast, intuitive chat with image sharing and AI assistance for conversation flow.
 ### 🎭 Multiple Modes  
 Switch between **Date, Business, Casual, Study, Sport** depending on your intent.  
 <p align="center">
-  <img src="assets/images/MatchaModes.jpeg" alt="App Modes" width="300"/>
+  <img src="assets/images/MatchaModes.png" alt="App Modes" width="300"/>
 </p>
 
 ---
